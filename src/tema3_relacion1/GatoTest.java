@@ -15,6 +15,7 @@ public class GatoTest {
 		
 		gato1.maulla();
 		gato2.ronronea();
+		gato3.maulla();
 	}
 
 }
