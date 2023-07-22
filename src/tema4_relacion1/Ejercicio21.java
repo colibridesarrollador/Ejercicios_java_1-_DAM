@@ -2,7 +2,7 @@ package tema4_relacion1;
 
 /**
  * 21. Realiza un programa que muestra los números múltiplos de 5 de 0 a 100.
- * @author JuanG
+ * @author Colibrí
  *
  */
 public class Ejercicio21 {

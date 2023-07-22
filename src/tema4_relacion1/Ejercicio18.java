@@ -7,7 +7,7 @@ import java.util.Scanner;
  * también la nota del alumno. Valida esta entrada haciendo que la nota sea
  * válida si está entre 0 y 10. Y que visualice también la nota media.
  * 
- * @author JuanG
+ * @author Colibrí
  *
  */
 public class Ejercicio18 {

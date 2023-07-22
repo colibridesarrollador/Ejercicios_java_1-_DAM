@@ -4,7 +4,7 @@ package tema4_relacion1;
  * 22. Realiza un programa que muestre los números del 320 al 160, contando de
  * 20 en 20 hacia atrás.
  * 
- * @author JuanG
+ * @author Colibrí
  *
  */
 public class Ejercicio22 {

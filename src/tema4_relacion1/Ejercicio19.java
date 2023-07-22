@@ -7,7 +7,7 @@ import java.util.Scanner;
  * introduzca un 0. Muestra los números, el número de números introducidos, la
  * suma y la media de ellos.
  * 
- * @author JuanG
+ * @author Colibrí
  *
  */
 public class Ejercicio19 {

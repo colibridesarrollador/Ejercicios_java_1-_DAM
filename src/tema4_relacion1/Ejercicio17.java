@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 17. Realiza los cambios necesarios en el ejercicio anterior para que cuente
  * el número de hombres y el número de mujeres que se han leído y los visualice.
  * 
- * @author JuanG
+ * @author Colibrí
  *
  */
 public class Ejercicio17 {

@@ -8,7 +8,7 @@ import java.util.Scanner;
  * la suma. Por ejemplo, si n1 es 5 y n2 es 3, hay que sumar n1 tres veces y el
  * resultado será 15 (5+5+5).
  * 
- * @author JuanG
+ * @author Colibrí
  *
  */
 public class Ejercicio20 {
